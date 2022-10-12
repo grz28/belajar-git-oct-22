@@ -1,0 +1,4 @@
+images/
+about.md
+js/*
+!js/a.txt
